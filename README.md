@@ -1,129 +1,131 @@
-# 👋 Hi, I'm Tejal Ghimire
+<div align="center">
+👋 Hey, I'm Tejal Ghimire
+💻 Student Developer • Web Developer • Tech Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;I+build+things+with+code+%F0%9F%92%BB;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80;Web+Development+%7C+React+%7C+JavaScript;Code+by+day.+Rock+by+choice.+%F0%9F%8E%B8" alt="Typing SVG" /> <br/> <a href="https://github.com/tejalghimire700-jpg"> <img src="https://img.shields.io/github/followers/tejalghimire700-jpg?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117" /> </a> <a href="https://github.com/tejalghimire700-jpg?tab=repositories"> <img src="https://img.shields.io/badge/Projects-Explore-8A2BE2?style=for-the-badge&labelColor=0D1117" /> </a> </div>
+🧑‍💻 About Me
 
-### 💻 Student Developer | Web Developer | Tech Enthusiast
+I'm a student developer passionate about turning ideas into real, useful, and visually engaging applications.
 
-Welcome to my GitHub profile!
+I enjoy learning by building — experimenting with new technologies, solving problems, improving my code, and creating projects that people can actually use.
 
-I'm a student developer interested in **web development, programming, and technology**. I enjoy building projects, experimenting with new ideas, and learning by creating.
+┌──────────────────────────────────────────────┐
+│              CURRENTLY BUILDING              │
+├──────────────────────────────────────────────┤
+│ 🌐 Web applications                          │
+│ ⚡ JavaScript projects                       │
+│ ⚛️ React experiences                         │
+│ 🐍 Python projects                           │
+│ 🎨 Better UI/UX                              │
+└──────────────────────────────────────────────┘
 
----
+🚀 What I'm focused on
 
-## 🚀 About Me
+🌱 Becoming stronger in JavaScript & React
 
-* 🔭 Currently building web and programming projects
-* 🌱 Learning JavaScript, React, Python, and modern web development
-* 💡 Interested in Web Development, UI/UX, and Technology
-* 🧩 I enjoy solving problems and creating useful projects
-* 📚 Always learning something new
-* 🎯 Goal: Become a skilled and creative developer
+🎨 Building clean and responsive UI/UX
 
----
+🧠 Improving problem-solving and programming fundamentals
 
-## 🎸 Beyond Coding
+🔧 Learning better Git & GitHub workflows
 
-When I'm not coding, I enjoy **rock music and playing guitar**.
+🚀 Building real-world projects
 
-* 🎸 Playing guitar
-* 🎵 Listening to rock and alternative music
-* 🔥 Exploring new sounds and learning new songs
+🤝 Exploring open-source contributions
 
-> **Code by day. Rock by choice. 🎸**
-
----
-
-## 🛠️ Technologies & Tools
-
-### Languages
-
-* HTML
-* CSS
-* JavaScript
-* Python
-
-### Frameworks & Libraries
-
-* React
-* Tailwind CSS
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-
----
-
-## 🌟 Featured Project
-
-### 🎯 Wingers Quiz Fest
+⚡ Tech Stack
+💻 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python" /> </p>
+⚛️ Frameworks & Libraries
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind" /> </p>
+🛠️ Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+🚀 Featured Project
+<div align="center">
+🎯 Wingers Quiz Fest
 
 An interactive quiz platform designed to make learning and testing knowledge more engaging.
 
-**Features:**
+</div>
+✨ Features
 
-* 🎮 Solo Mode
-* 👥 Team Mode
-* ❓ Multiple-choice questions
-* 🏆 Score tracking
-* ⏱️ Timed quizzes
-* 📱 Responsive design
+🎮 Solo Mode
 
----
+👥 Team Mode
 
-## 📚 Currently Learning
+❓ Multiple-choice questions
 
-* 🌐 Web Development
-* ⚡ JavaScript
-* ⚛️ React
-* 🐍 Python
-* 🎨 UI/UX
-* 🔧 Git & GitHub
+🏆 Score tracking
 
----
+⏱️ Timed quizzes
 
-## 🎯 2026 Goals
+📱 Responsive design
 
-* [ ] Build more real-world projects
-* [ ] Improve JavaScript skills
-* [ ] Learn React deeply
-* [ ] Create better responsive websites
-* [ ] Improve Git & GitHub workflow
-* [ ] Contribute to open-source projects
-* [ ] Build projects that solve real problems
+🎨 Interactive user experience
 
----
+💡 Goal: Turn traditional quizzes into a more engaging and enjoyable experience.
 
-## 💻 My Development Philosophy
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejalghimire700-jpg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejalghimire700-jpg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" /> </div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com?user=tejalghimire700-jpg&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" /> </div>
+🐍 My Contribution Journey
+<div align="center"> <img src="https://raw.githubusercontent.com/tejalghimire700-jpg/tejalghimire700/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> </div>
+📚 Currently Learning
+JavaScript       █████████████████░░░   85%
+React            ███████████████░░░░░   75%
+Python           ██████████████░░░░░░   70%
+UI/UX            █████████████░░░░░░░   65%
+Git & GitHub     ███████████████░░░░░   75%
 
-> **Build → Learn → Improve → Repeat**
 
-I believe the best way to learn programming is by actually building things.
+These aren't fixed limits — they're simply the areas I'm actively working to improve.
 
----
+🎯 2026 Goals
 
-## 🎸 Music & Coding
+ 🚀 Build more real-world applications
 
-```text
-CODE        ████████████████████
-GUITAR      ███████████████░░░░░
-ROCK        █████████████████░░░
-LEARNING    ████████████████████
-```
+ ⚡ Become highly confident with JavaScript
 
----
+ ⚛️ Learn React deeply
 
-## 🤝 Let's Connect
+ 🎨 Build beautiful responsive interfaces
 
-Thanks for visiting my profile!
+ 🔧 Improve my Git & GitHub workflow
 
-Feel free to explore my repositories and follow my development journey.
+ 🌎 Contribute to open-source projects
 
+ 🧠 Strengthen programming fundamentals
+
+ 💡 Build projects that solve real problems
+
+🧠 My Development Philosophy
 <div align="center">
+Build → Learn → Improve → Repeat
+</div>
 
-### 🚀 Keep Learning. Keep Building. Keep Improving.
+I believe the best way to learn programming isn't just by watching tutorials — it's by building things, breaking things, fixing them, and continuously improving.
 
-### 🎸 Code by day. Rock by choice.
+Every project is an opportunity to learn something new.
 
-**Thanks for visiting! ⭐**
+🎸 Beyond Code
+
+When I'm not coding, you'll probably find me with a guitar.
+
+🎵 Music • Guitar • Rock
+CODE        ████████████████████  100%
+LEARNING    ████████████████████  100%
+GUITAR     ███████████████░░░░░   75%
+ROCK        █████████████████░░░   85%
+COFFEE      ████████████████████  100%
+
+
+Code by day. Rock by choice. 🎸
+
+🌐 Let's Connect
+<div align="center"> <a href="https://github.com/tejalghimire700-jpg"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" /> </a> </div>
+<div align="center">
+💫 Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer" />
+🚀 Keep Learning • Keep Building • Keep Improving
+
+🎸 Code by day. Rock by choice.
 
 </div>
