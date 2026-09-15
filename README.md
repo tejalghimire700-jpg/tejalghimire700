@@ -1,76 +1,66 @@
-# Hi, I'm Tejal Ghimire 👋
+# 👋 Hi, I'm Tejal Ghimire
 
 ### 💻 Student Developer | Web Developer | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm a student developer who enjoys building websites, experimenting with programming, and turning ideas into useful projects.
+Welcome to my GitHub profile!
 
-I'm currently focused on improving my skills in **web development, programming, and problem-solving** while building projects that help me learn by doing.
+I'm a student developer interested in **web development, programming, and technology**. I enjoy building projects, experimenting with new ideas, and learning through practical experience.
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **web development and personal projects**
-* 🌱 Learning and improving my **programming & development skills**
+* 🔭 Currently building web and programming projects
+* 🌱 Learning **JavaScript, React, Python, and modern web development**
 * 💡 Interested in **Web Development, UI/UX, and Technology**
-* 🧩 I enjoy solving problems and creating things from scratch
+* 🧩 I enjoy solving problems and creating useful projects
 * 📚 Always learning something new
-* 🎯 Goal: Become a better developer by building real projects
+* 🎯 My goal is to become a skilled and creative developer
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+`HTML` `CSS` `JavaScript` `Python`
 
-### Tools & Platforms
+**Frameworks & Libraries**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+`React` `Tailwind CSS`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
 ### 🎯 Wingers Quiz Fest
 
-An interactive quiz web application designed to make learning and testing knowledge more engaging.
+An interactive quiz platform designed to make learning and testing knowledge more engaging.
 
-**Features:**
+**Features**
 
-* 🎮 Solo quiz mode
-* 👥 Team-based quiz mode
+* 🎮 Solo Mode
+* 👥 Team Mode
 * ❓ Multiple-choice questions
 * 🏆 Score tracking
 * ⏱️ Timed quizzes
-* 📱 Responsive interface
-
-> More improvements and features are coming soon!
+* 📱 Responsive design
 
 ---
 
-## 📊 GitHub Stats
-
-![Tejal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejalghimire700\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejalghimire700\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 📈 My Development Journey
+## 📚 Currently Learning
 
 ```text
-Learning        ███████████████░░░░░  75%
-Web Development ██████████████░░░░░░  70%
-Python          ████████████░░░░░░░░  60%
-JavaScript      ███████████░░░░░░░░░  55%
-UI/UX           ██████████░░░░░░░░░░  50%
+Web Development    ███████████████░░░░░
+JavaScript         █████████████░░░░░░
+React              ███████████░░░░░░░░
+Python             ████████████░░░░░░░
+UI/UX              ██████████░░░░░░░░░
+Git & GitHub       █████████████░░░░░░
 ```
 
 ---
@@ -79,27 +69,33 @@ UI/UX           ██████████░░░░░░░░░░  50
 
 * [ ] Build more real-world projects
 * [ ] Improve JavaScript skills
-* [ ] Learn React more deeply
-* [ ] Build better responsive websites
+* [ ] Learn React deeply
+* [ ] Create better responsive websites
 * [ ] Improve Git & GitHub workflow
 * [ ] Contribute to open-source projects
-* [ ] Create projects that solve real problems
+* [ ] Build projects that solve real problems
 
 ---
 
-## 💡 What I Believe
+## 💻 My Development Philosophy
 
-> **"The best way to learn programming is to build."**
+> **Build → Learn → Improve → Repeat**
 
-Every project is an opportunity to learn something new, improve my skills, and become a better developer.
+I believe the best way to learn programming is by actually building things.
 
 ---
 
-## 🤝 Let's Connect
+## 📌 GitHub
 
-If you're interested in technology, programming, or building projects, feel free to explore my repositories and connect with me.
+I use GitHub to document my projects, experiment with new technologies, and track my development journey.
 
-**Thanks for visiting my profile! ⭐**
+Feel free to explore my repositories!
+
+---
+
+## 🤝 Connect With Me
+
+If you're interested in programming, technology, or building projects, feel free to connect with me.
 
 ---
 
@@ -107,6 +103,6 @@ If you're interested in technology, programming, or building projects, feel free
 
 ### 🚀 Keep Learning. Keep Building. Keep Improving.
 
-**© 2026 Tejal Ghimire**
+**Thanks for visiting my profile! ⭐**
 
 </div>
