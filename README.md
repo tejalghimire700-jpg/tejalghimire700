@@ -106,3 +106,12 @@ If you're interested in programming, technology, or building projects, feel free
 **Thanks for visiting my profile! ⭐**
 
 </div>
+## 🎸 Beyond Coding
+
+When I'm not coding, I enjoy **rock music and playing guitar**.
+
+🎸 **Guitar**
+🎵 **Rock & alternative music**
+🔥 Always exploring new sounds and learning new songs
+
+> **Code by day. Rock by choice. 🎸**
