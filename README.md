@@ -19,17 +19,29 @@ I'm a student developer interested in **web development, programming, and techno
 
 ---
 
+## 🎸 Beyond Coding
+
+When I'm not coding, I enjoy **rock music and playing guitar**.
+
+* 🎸 **Guitar**
+* 🎵 **Rock & alternative music**
+* 🔥 Exploring new sounds and learning new songs
+
+> **Code by day. Rock by choice. 🎸**
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
 `HTML` `CSS` `JavaScript` `Python`
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 
 `React` `Tailwind CSS`
 
-**Tools**
+### Tools
 
 `Git` `GitHub` `VS Code`
 
@@ -103,15 +115,8 @@ If you're interested in programming, technology, or building projects, feel free
 
 ### 🚀 Keep Learning. Keep Building. Keep Improving.
 
+🎸 **Code by day. Rock by choice.**
+
 **Thanks for visiting my profile! ⭐**
 
 </div>
-## 🎸 Beyond Coding
-
-When I'm not coding, I enjoy **rock music and playing guitar**.
-
-🎸 **Guitar**
-🎵 **Rock & alternative music**
-🔥 Always exploring new sounds and learning new songs
-
-> **Code by day. Rock by choice. 🎸**
