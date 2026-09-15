@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm  Tejal Ghimire👋
 
 🎸 Rock music enthusiast | 💻 Aspiring Developer | ⚡ Fast Learner
 
