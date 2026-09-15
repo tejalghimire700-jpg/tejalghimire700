@@ -4,18 +4,18 @@
 
 Welcome to my GitHub profile!
 
-I'm a student developer interested in **web development, programming, and technology**. I enjoy building projects, experimenting with new ideas, and learning through practical experience.
+I'm a student developer interested in **web development, programming, and technology**. I enjoy building projects, experimenting with new ideas, and learning by creating.
 
 ---
 
 ## 🚀 About Me
 
 * 🔭 Currently building web and programming projects
-* 🌱 Learning **JavaScript, React, Python, and modern web development**
-* 💡 Interested in **Web Development, UI/UX, and Technology**
+* 🌱 Learning JavaScript, React, Python, and modern web development
+* 💡 Interested in Web Development, UI/UX, and Technology
 * 🧩 I enjoy solving problems and creating useful projects
 * 📚 Always learning something new
-* 🎯 My goal is to become a skilled and creative developer
+* 🎯 Goal: Become a skilled and creative developer
 
 ---
 
@@ -23,27 +23,33 @@ I'm a student developer interested in **web development, programming, and techno
 
 When I'm not coding, I enjoy **rock music and playing guitar**.
 
-* 🎸 **Guitar**
-* 🎵 **Rock & alternative music**
+* 🎸 Playing guitar
+* 🎵 Listening to rock and alternative music
 * 🔥 Exploring new sounds and learning new songs
 
 > **Code by day. Rock by choice. 🎸**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 ### Languages
 
-`HTML` `CSS` `JavaScript` `Python`
+* HTML
+* CSS
+* JavaScript
+* Python
 
 ### Frameworks & Libraries
 
-`React` `Tailwind CSS`
+* React
+* Tailwind CSS
 
 ### Tools
 
-`Git` `GitHub` `VS Code`
+* Git
+* GitHub
+* VS Code
 
 ---
 
@@ -53,7 +59,7 @@ When I'm not coding, I enjoy **rock music and playing guitar**.
 
 An interactive quiz platform designed to make learning and testing knowledge more engaging.
 
-**Features**
+**Features:**
 
 * 🎮 Solo Mode
 * 👥 Team Mode
@@ -66,14 +72,12 @@ An interactive quiz platform designed to make learning and testing knowledge mor
 
 ## 📚 Currently Learning
 
-```text
-Web Development    ███████████████░░░░░
-JavaScript         █████████████░░░░░░
-React              ███████████░░░░░░░░
-Python             ████████████░░░░░░░
-UI/UX              ██████████░░░░░░░░░
-Git & GitHub       █████████████░░░░░░
-```
+* 🌐 Web Development
+* ⚡ JavaScript
+* ⚛️ React
+* 🐍 Python
+* 🎨 UI/UX
+* 🔧 Git & GitHub
 
 ---
 
@@ -97,26 +101,29 @@ I believe the best way to learn programming is by actually building things.
 
 ---
 
-## 📌 GitHub
+## 🎸 Music & Coding
 
-I use GitHub to document my projects, experiment with new technologies, and track my development journey.
-
-Feel free to explore my repositories!
-
----
-
-## 🤝 Connect With Me
-
-If you're interested in programming, technology, or building projects, feel free to connect with me.
+```text
+CODE        ████████████████████
+GUITAR      ███████████████░░░░░
+ROCK        █████████████████░░░
+LEARNING    ████████████████████
+```
 
 ---
+
+## 🤝 Let's Connect
+
+Thanks for visiting my profile!
+
+Feel free to explore my repositories and follow my development journey.
 
 <div align="center">
 
 ### 🚀 Keep Learning. Keep Building. Keep Improving.
 
-🎸 **Code by day. Rock by choice.**
+### 🎸 Code by day. Rock by choice.
 
-**Thanks for visiting my profile! ⭐**
+**Thanks for visiting! ⭐**
 
 </div>
