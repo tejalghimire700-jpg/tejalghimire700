@@ -1,101 +1,151 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:6366f1&height=220&section=header&text=Tejal%20Ghimire&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+projects+%F0%9F%9A%80;Learning.+Building.+Improving.+%F0%9F%92%BB;Web+Development+%7C+React+%7C+JavaScript;Turning+curiosity+into+code+%E2%9C%A8" alt="Typing SVG" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0c4a6e,100:2563eb&height=260&section=header&text=TEJAL%20GHIMIRE&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20CREATIVE%20THINKER&descSize=15&descAlignY=57&descColor=94a3b8" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Crafting+digital+experiences+with+code.;Turning+ideas+into+real+products.;Learning+today.+Building+tomorrow.;Welcome+to+my+digital+workspace+%E2%9C%A8" alt="Typing animation"/>
 <br/><br/>
 
-<a href="https://github.com/tejalghimire700-jpg"> <img src="https://img.shields.io/github/followers/tejalghimire700-jpg?style=flat-square&logo=github&label=Followers&color=0ea5e9" /> </a> &nbsp; <a href="https://github.com/tejalghimire700-jpg?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-Explore-6366f1?style=flat-square&logo=github" /> </a> &nbsp; <img src="https://komarev.com/ghpvc/?username=tejalghimire700-jpg&style=flat-square&color=0ea5e9&label=Profile+Views" /> </div>
-👋 About Me
-Hi! I'm Tejal Ghimire, a student developer who enjoys turning ideas into practical and engaging digital experiences.
+<a href="https://github.com/tejalghimire700-jpg"> <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <img src="https://komarev.com/ghpvc/?username=tejalghimire700-jpg&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" /> </div> <br/>
+01 — INTRODUCTION
+<table> <tr> <td width="60%" valign="top">
+Hello, I'm Tejal.
+I'm a student developer passionate about building useful, modern, and visually engaging digital experiences.
 
-I'm interested in web development, programming, UI/UX, and building real-world projects. I learn best by experimenting, solving problems, and creating things from scratch.
+I enjoy taking an idea from concept → code → working product, while continuously improving my skills along the way.
 
-const tejal = {
-    role: "Student Developer",
-    focus: ["Web Development", "Programming", "UI/UX"],
-    currentlyLearning: ["JavaScript", "React", "Python"],
-    mindset: "Learn → Build → Improve",
-    hobbies: ["Coding", "Guitar", "Music"],
-    goal: "Build meaningful things with technology"
-};
+My current interests revolve around:
 
-🚀 What I'm Working On
-🌐 Building modern and responsive web applications
+🌐 Modern web development
 
-⚡ Improving my JavaScript fundamentals
+⚡ JavaScript & interactive experiences
 
-⚛️ Exploring React and component-based development
+⚛️ React
 
-🐍 Strengthening my Python skills
+🐍 Python
 
-🎨 Learning better UI/UX practices
+🎨 UI/UX
 
-🧠 Improving problem-solving and programming fundamentals
+🧠 Problem solving
 
-🌎 Exploring open-source development
+🚀 Building real-world projects
 
-🛠️ Technologies & Tools
+</td> <td width="40%" valign="center">
+╭─────────────────────────╮
+│                         │
+│   TEJAL / DEVELOPER     │
+│                         │
+│   STATUS                │
+│   ● ONLINE              │
+│                         │
+│   BUILDING              │
+│   ███████████████░░     │
+│                         │
+│   LEARNING              │
+│   ██████████████░░░     │
+│                         │
+╰─────────────────────────╯
+
+</td> </tr> </table>
+02 — CURRENT FOCUS
 <div align="center">
-Languages
+Focus	What I'm Doing
+⚡ JavaScript	Building stronger fundamentals
+⚛️ React	Creating component-based interfaces
+🎨 UI/UX	Designing cleaner user experiences
+🐍 Python	Expanding programming skills
+🚀 Projects	Turning ideas into working products
+🌎 Open Source	Exploring collaboration & contribution
+
+</div>
+03 — TECH STACK
+<div align="center">
+LANGUAGES
 <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 <br/><br/>
 
-Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-<br/><br/>
-
-Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> </div>
-⭐ Featured Project
+FRAMEWORKS & TOOLS
+<img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" /> </div>
+04 — FEATURED WORK
 <div align="center">
-🎯 Wingers Quiz Fest
-An interactive quiz platform focused on making learning and knowledge testing more engaging.
+🎯 WINGERS QUIZ FEST
+An interactive quiz experience designed to make learning more engaging.
 
-</div>
-Highlights
-🎮 Solo and team-based quiz modes
+<br/> </div> <table> <tr> <td width="50%" valign="top">
+✦ Core Features
+🎮 Solo & team modes
 
-❓ Interactive multiple-choice questions
+❓ Interactive questions
 
-⏱️ Timed quiz experience
+⏱️ Timed quizzes
 
 🏆 Score tracking
 
 📱 Responsive interface
 
-🎨 User-focused design
+🎨 Interactive UI
 
-⚡ Fast and interactive experience
+</td> <td width="50%" valign="top">
+✦ Vision
+Create a platform where learning feels less like a test and more like an experience.
 
-The idea: Combine learning with an enjoyable, interactive experience.
+The project combines:
 
-📊 GitHub Statistics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejalghimire700-jpg&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&ring_color=38bdf8" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejalghimire700-jpg&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" /> </div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com?user=tejalghimire700-jpg&hide_border=true&background=0f172a&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" /> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejalghimire700-jpg&bg_color=0f172a&color=38bdf8&line=6366f1&point=ffffff&area=true&hide_border=true" width="95%" /> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/tejalghimire700-jpg/tejalghimire700/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </div>
-🎯 2026 Goals
-<table align="center"> <tr> <td>🚀 Build real-world projects</td> <td>⚛️ Master React fundamentals</td> </tr> <tr> <td>💻 Improve JavaScript</td> <td>🧠 Strengthen problem solving</td> </tr> <tr> <td>🌎 Contribute to open source</td> <td>🎨 Improve UI/UX skills</td> </tr> </table>
-🧠 My Philosophy
+EDUCATION + INTERACTION + DESIGN
+
+</td> </tr> </table>
+05 — GITHUB INSIGHTS
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tejalghimire700-jpg&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejalghimire700-jpg&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" height="180"/> </div> <br/> <div align="center"> <img src="https://streak-stats.demolab.com?user=tejalghimire700-jpg&hide_border=true&background=020617&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" /> </div>
+06 — ACTIVITY
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejalghimire700-jpg&bg_color=020617&color=38BDF8&line=6366F1&point=FFFFFF&area_color=1e3a8a&area=true&hide_border=true" width="96%"/> </div>
+07 — ROADMAP
+2026
+ │
+ ├── ✓ Strengthen programming fundamentals
+ │
+ ├── ◉ Master JavaScript
+ │
+ ├── ◉ Deep dive into React
+ │
+ ├── ◉ Build production-ready projects
+ │
+ ├── ○ Contribute to open source
+ │
+ └── ○ Build something people genuinely use
+
+Legend
+
+✓ Completed · ◉ In Progress · ○ Upcoming
+
+08 — THE WAY I BUILD
 <div align="center">
-Don't just learn. Build.
-<br/>
-Every project is a chance to learn something new.
-Every bug is an opportunity to improve.
-Every line of code is progress.
-
-<br/>
-Learn → Build → Break → Fix → Improve → Repeat
-
+DISCOVER → DESIGN → BUILD → TEST → IMPROVE
 </div>
-🎸 Beyond Coding
-When I'm away from the keyboard, I enjoy guitar and music.
+I don't believe in writing code just for the sake of writing code.
 
-I believe creativity isn't limited to code — whether you're writing software or playing music, curiosity, patience, and practice make the difference.
+I want to understand the problem, design a thoughtful solution, build it, learn from what doesn't work, and continuously improve the final result.
 
+Good software solves problems.
+Great software makes the solution feel effortless.
+
+09 — BEYOND THE SCREEN
 <div align="center">
-🎸 Code by day. Music by choice.
-
+🎸 MUSIC • CREATIVITY • CODE
 </div>
-🤝 Let's Connect
-<div align="center"> <a href="https://github.com/tejalghimire700-jpg"> <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div> <br/> <div align="center">
-💙 Thanks for visiting my profile!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:0f172a&height=120&section=footer" width="100%"/> </div>
+Technology is only one part of what inspires me.
+
+When I'm away from the keyboard, I enjoy guitar and music — another way of experimenting, creating, and expressing ideas.
+
+CODE        ████████████████████
+CURIOSITY   ████████████████████
+LEARNING    ████████████████████
+CREATIVITY  ██████████████████░░
+MUSIC       ████████████████░░░░
+
+10 — CONNECT
+<div align="center"> <a href="https://github.com/tejalghimire700-jpg"> <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/> </a>
+ 
+
+<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+ 
+
+<a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> </div> <br/> <div align="center">
+Let's build something meaningful.
+Open to learning • collaboration • opportunities
+
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0c4a6e,100:020617&height=140&section=footer" width="100%"/> </div>
